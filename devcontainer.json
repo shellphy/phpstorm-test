@@ -1,0 +1,4 @@
+{
+  "name": "docker-test",
+  "image": "phpstorm/php-apache:latest"
+}
